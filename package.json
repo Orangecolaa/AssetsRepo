@@ -1,0 +1,22 @@
+{
+  "name": "orangecolaa-assetsrepo",
+  "version": "1.0.4",
+  "description": "静态资源图床仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangecolaa/AssetsRepo.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "orangecolaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orangecolaa/AssetsRepo/issues"
+  },
+  "homepage": "https://github.com/orangecolaa/AssetsRepo#readme"
+}
