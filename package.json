@@ -1,6 +1,6 @@
 {
   "name": "orangecolaa-assetsrepo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "静态资源图床仓库",
   "main": "index.js",
   "scripts": {
